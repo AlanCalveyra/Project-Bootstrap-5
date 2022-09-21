@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+}
+
+body{
+    line-height: 1.5;
+}
+
+img{
+    width: 200px;
+}
+
+.workPlace{
+    background-color: #1e90ff;
+}
+.placeEducation{
+    background-color: #1e90ff;
+}
+.workPlace{
+    display: inline-block;
+    font-size: 14px;
+    background-color: #0ea0ff;
+    color: #fff;
+    padding: 2px 8px;
+    border-radius: 40px;
+}
+
+.placeEducation{
+    display: inline-block;
+    font-size: 14px;
+    background-color: #20c997;
+    color: #fff;
+    padding: 2px 8px;
+    border-radius: 40px;
+}
+
+time{
+    float: right;
+}
+.item{
+    padding-top: 25px;
+    border-top: 1px solid #eee
+}
+.web-icons, a{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 5px;
+   padding: 1px;
+} 
+
+.grupo{
+    max-width: 800px;
+    margin: auto;
+    padding-top: 70px;
+}
+
+.row{
+    margin-bottom: 5px;
+}
+
+.info-card{
+    padding: 40px;
+    box-shadow: -1px -1px 9px -3px rgba(0,0,0,0.75);
+    height: 100%;
+}
+
+.info-card h3{
+    margin-top: 0;
+    margin-bottom: 24px !important;
+    font-size: 1.4rem;
+}
+
+.skills{
+    width: 350px;
+    height: 100%;
+}
+
+.info-card .skills {
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.fontSize-h4{
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+.contacto{
+    width: 350px;
+    height: 100%;
+    box-shadow: -1px -1px 9px -3px rgba(0,0,0,0.75);
+    padding: 40px;
+} 
+
+ .contacto .svg .info-card{
+    font-size: 20.8px;
+    color: #c9c9c9;
+    position: relative; 
+    bottom: 4px; 
+}
+
+.progress{
+    height: 3px;
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+.download-template{
+    color: #fff;
+    background-color: #ed36ad;
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding: 10px 24px;
+    border-radius: 40px;
+}
